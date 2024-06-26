@@ -5,3 +5,7 @@
 ## [download pdf](https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/main/TOBoML.pdf)
 
 [To leave a review, comment, or suggestion please do not hesitate to create an issue for the book!](https://github.com/Carl-McBride-Ellis/TOBoML/issues)
+
+If you wish to hyperlink to the book here is the URL:
+
+https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf
