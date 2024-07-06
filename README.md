@@ -10,4 +10,8 @@ If you wish to hyperlink to the book here is the URL:
 
 https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf
 
+or if one wishes to make a (voluntary) purchase, via Leanpub:
+
+https://leanpub.com/TOBoML
+
 Latest version: 1.0.1 (2026-07-02)
