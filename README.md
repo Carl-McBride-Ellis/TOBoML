@@ -2,15 +2,15 @@
 
 ## by [Carl McBride Ellis](https://www.linkedin.com/in/carl-mcbride-ellis)
 
-## [download pdf](https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/main/TOBoML.pdf)
+## [free pdf](https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf)
 
-[To leave a review, comment, or suggestion please do not hesitate to create an issue for the book!](https://github.com/Carl-McBride-Ellis/TOBoML/issues)
+To leave a review, a comment, or a suggestion please do not hesitate to make use of the book [Discussions section](https://github.com/Carl-McBride-Ellis/TOBoML/discussions)
 
 If you wish to hyperlink to the book here is the URL:
 
 https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf
 
-or if one wishes to make a (voluntary) purchase, via Leanpub:
+or if one wishes to make a (voluntary) purchase, do so via Leanpub:
 
 https://leanpub.com/TOBoML
 
