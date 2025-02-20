@@ -10,8 +10,9 @@ If you wish to hyperlink to the book here is the URL:
 
 https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf
 
-## See also:
+# Green edition
+This is the latest fully maintained version of TOBoML
 
-![The Orange Book of Machine Learning - Green edition](https://github.com/Carl-McBride-Ellis/TOBoML/blob/main/TOBoML2_portada_tight_small.png)
+![The Orange Book of Machine Learning - Green edition](https://github.com/Carl-McBride-Ellis/TOBoML/blob/main/TOBoML2_3D.png)
 
 To purchase a copy of the updated version please visit [Leanpub](https://leanpub.com/TOBoML2)
