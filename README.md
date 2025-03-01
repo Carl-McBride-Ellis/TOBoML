@@ -1,4 +1,4 @@
-![The Orange Book of Machine Learning](https://github.com/Carl-McBride-Ellis/TOBoML/blob/main/TOBoML_portada_v3.png)
+<a href="https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf"> <img  style="width:70%" src="https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/refs/heads/main/TOBoML_portada_v3.png"  alt="TOBoML cover image"/></a>
 
 ## by [Carl McBride Ellis](https://www.linkedin.com/in/carl-mcbride-ellis)
 
@@ -13,6 +13,6 @@ https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf
 # Green edition
 This is the latest fully maintained version of TOBoML
 
-![The Orange Book of Machine Learning - Green edition](https://github.com/Carl-McBride-Ellis/TOBoML/blob/main/TOBoML2_3D.png)
+<a href="https://leanpub.com/TOBoML2"> <img  style="width:70%" src="https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/refs/heads/main/TOBoML2_3D.png"  alt="TOBoML2 cover image"/></a>
 
 To purchase a copy of the updated version please visit [Leanpub](https://leanpub.com/TOBoML2)
