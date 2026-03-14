@@ -4,9 +4,10 @@
 ## by [Carl McBride Ellis](https://www.linkedin.com/in/carl-mcbride-ellis)
 
 The '[Green Edition](https://leanpub.com/TOBoML2)' is the latest fully maintained version of TOBoML
-* 202 pages, 12pt font size
+* 209 pages, 12pt font size
 * A4 page size (210 x 297 mm / 8.3 x 11.7 in) suitable for printing. The pages are `long' (i.e. narrow top and bottom margins) so as to facilitate uninterrupted scrolling when read on a tablet
-* Over 140 original figures
+* 150 original figures
+* Links to 28 Jupyter Notebooks
 * No generative AI whatsoever has been used in the writing of this book
 
 <a href="https://leanpub.com/TOBoML2"> <img  style="width:70%" src="https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/refs/heads/main/TOBoML2_3D.png"  alt="TOBoML2 cover image"/></a>
