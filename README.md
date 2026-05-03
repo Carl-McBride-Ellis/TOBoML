@@ -10,6 +10,20 @@ The '[Green Edition](https://leanpub.com/TOBoML2)' is the latest fully maintaine
 * Links to 30 Jupyter Notebooks
 * Over 900 hyperlinks to resources such as packages and academic publications
 * No generative AI whatsoever has been used in the writing of this book
+### Contents
+1. Introduction 
+2. Statistics
+3. Exploratory data analysis (EDA)
+4. Data cleaning
+5. Cross-validation
+6. Interpolation and smoothing
+7. Regression
+8. Classification
+9. GLM and GAM
+10. Ensemble estimators
+11. Hyperparameter optimization (HPO)
+12. Feature engineering and selection
+13. Tabular foundation models (TFM)
 
 <a href="https://leanpub.com/TOBoML2"> <img  style="width:70%" src="https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/refs/heads/main/TOBoML2_3D.png"  alt="TOBoML2 cover image"/></a>
 
