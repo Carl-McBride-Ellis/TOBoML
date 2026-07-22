@@ -4,10 +4,10 @@
 ## by [Carl McBride Ellis](https://www.linkedin.com/in/carl-mcbride-ellis)
 
 The '[Green Edition](https://leanpub.com/TOBoML2)' is the latest fully maintained version of TOBoML
-* 237 pages, 10pt font size
+* 238 pages, 10pt font size
 * 150 original figures
 * Links to 30 Jupyter Notebooks
-* Over 900 hyperlinks to resources such as packages and academic publications
+* Over 950 hyperlinks to resources such as packages and academic publications
 * No generative AI whatsoever has been used in the writing of this book
 ### Contents
 1. Introduction 
@@ -28,8 +28,7 @@ The '[Green Edition](https://leanpub.com/TOBoML2)' is the latest fully maintaine
 
 To purchase a copy of the Green Edition please visit [Leanpub](https://leanpub.com/TOBoML2)
 
-
-
+A paperback version is available from [Packt Publishing Ltd](https://www.packtpub.com/en-us/product/the-orange-book-of-machine-learning-green-edition-9781808081316) (ISBN: 9781808081316)
 
 To leave a review, a comment, or a suggestion please do not hesitate to make use of the book [Discussions section](https://github.com/Carl-McBride-Ellis/TOBoML/discussions)
 
